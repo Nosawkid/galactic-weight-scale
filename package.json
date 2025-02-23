@@ -12,6 +12,14 @@
   "author": "Yaseen Sidhik",
   "type": "commonjs",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nosawkid/galactic-weight-scale.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nosawkid/galactic-weight-scale/issues"
+  },
+  "homepage": "https://github.com/Nosawkid/galactic-weight-scale#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
